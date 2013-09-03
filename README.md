@@ -17,9 +17,11 @@ GoReading
 
 要掌握的知识
 
-  1.正则表达式
+1.正则表达式
   
-  2.shell编程： find  awk
+2.shell编程： find  awk
+  
+3.markdown
 
 
 
