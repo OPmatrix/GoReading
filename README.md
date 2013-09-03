@@ -1,6 +1,7 @@
 GoReading
 =========
 我将要学习的书目
+
 1. 设计模式
 
 2. scala
@@ -15,6 +16,7 @@ GoReading
 
 
 要掌握的知识
+
   1.正则表达式
   
   2.shell编程： find  awk
