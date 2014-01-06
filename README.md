@@ -11,13 +11,11 @@
 
 2. scala
 
-3. select epoll libevent
+3. css权威指南
 
-4. css权威指南
+4. ECMASCRIPT 5
 
-5. ECMASCRIPT 5
-
-6. 由浅入深 NGINX
+5. 由浅入深 NGINX
 
 
 ###要掌握的知识
@@ -27,6 +25,8 @@
 2.shell编程： find  awk
   
 3.markdown
+
+4. select epoll libevent
 
 
 
