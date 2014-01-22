@@ -5,28 +5,35 @@
 
 1. 重构
 
-2. 高性能mysql
+2. 深入浅出nodejs
 
-3. 设计模式
+3. 算法
 
-2. scala
+4. 高性能mysql
 
-3. css权威指南
+5. 设计模式
 
-4. ECMASCRIPT 5
+6. css权威指南
 
-5. 由浅入深 NGINX
+7. ECMASCRIPT 5
+
+8. 由浅入深 NGINX
 
 
 ###要掌握的知识
 
-1. 正则表达式
-  
-2. shell编程： find  awk
-  
-3. markdown
+1. select epoll libevent
 
-4. select epoll libevent
+done:
+  1. 正则表达式
+    
+  2. shell编程： find  awk
+    
+  3. markdown
+  
+
+
+
 
 
 
