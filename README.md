@@ -40,25 +40,24 @@
 
 1. select epoll libevent
 
-done:
-  1. 正则表达式
+1. 正则表达式
     
-  2. shell编程： find  awk
+2. shell编程： find  awk
     
-  3. markdown
+3. markdown
 
 
 
 ###长远计划
 
 
-1.练字
+1. 练字
 
-2.英语。（一定要做到双语教学）
+2. 英语（一定要做到双语教学）
 
-3.软考高级证书
+3. 软考高级证书
 
-4.研究生考试
+4. 研究生考试
   
   
   
