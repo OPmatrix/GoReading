@@ -6,13 +6,13 @@
 ### read
 
 
-1.HTTP权威指南
+1. HTTP权威指南
 
 
 
 ###reading
 
-1.java编程思想
+1. java编程思想
 
 
 
